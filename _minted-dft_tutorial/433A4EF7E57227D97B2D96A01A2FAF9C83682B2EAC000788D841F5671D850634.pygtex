@@ -1,0 +1,4 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGdefault{k}{print} \PYGdefault{l+s}{\PYGdefaultZsq{}Hello, this is a sample sentence!\PYGdefaultZsq{}}
+\PYGdefault{k}{print} \PYGdefault{l+s}{\PYGdefaultZsq{}This}\PYGdefault{l+s+se}{\PYGdefaultZbs{}t}\PYGdefault{l+s}{is}\PYGdefault{l+s+se}{\PYGdefaultZbs{}t}\PYGdefault{l+s}{tab}\PYGdefault{l+s+se}{\PYGdefaultZbs{}t}\PYGdefault{l+s}{separated}\PYGdefault{l+s+se}{\PYGdefaultZbs{}t}\PYGdefault{l+s}{text\PYGdefaultZsq{}}
+\end{Verbatim}

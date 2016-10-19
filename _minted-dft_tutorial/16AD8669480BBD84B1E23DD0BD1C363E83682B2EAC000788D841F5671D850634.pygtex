@@ -1,0 +1,16 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGdefault{k+kn}{import} \PYGdefault{n+nn}{numpy} \PYGdefault{k+kn}{as} \PYGdefault{n+nn}{np}
+
+\PYGdefault{c}{\PYGdefaultZsh{} Array with a range of numbers from 0 to 5, with step size of 1.}
+\PYGdefault{c}{\PYGdefaultZsh{} Here, the end point is not included.}
+\PYGdefault{n}{a} \PYGdefault{o}{=} \PYGdefault{n}{np}\PYGdefault{o}{.}\PYGdefault{n}{arange}\PYGdefault{p}{(}\PYGdefault{l+m+mi}{0}\PYGdefault{p}{,} \PYGdefault{l+m+mi}{5}\PYGdefault{p}{,} \PYGdefault{l+m+mi}{1}\PYGdefault{p}{)}
+\PYGdefault{k}{print} \PYGdefault{n}{a}
+
+\PYGdefault{c}{\PYGdefaultZsh{} Dictionary with keys and corresponding values showing date format}
+\PYGdefault{n}{b} \PYGdefault{o}{=} \PYGdefault{p}{\PYGdefaultZob{}}\PYGdefault{l+s}{\PYGdefaultZsq{}Day\PYGdefaultZsq{}}\PYGdefault{p}{:} \PYGdefault{l+s}{\PYGdefaultZsq{}DD\PYGdefaultZsq{}}\PYGdefault{p}{,}
+     \PYGdefault{l+s}{\PYGdefaultZsq{}Month\PYGdefaultZsq{}}\PYGdefault{p}{:} \PYGdefault{l+s}{\PYGdefaultZsq{}MM\PYGdefaultZsq{}}\PYGdefault{p}{,}
+     \PYGdefault{l+s}{\PYGdefaultZsq{}Year\PYGdefaultZsq{}}\PYGdefault{p}{:} \PYGdefault{l+s}{\PYGdefaultZsq{}YYYY\PYGdefaultZsq{}}\PYGdefault{p}{\PYGdefaultZcb{}}
+
+\PYGdefault{k}{print} \PYGdefault{n}{b}
+\PYGdefault{k}{print} \PYGdefault{n}{b}\PYGdefault{p}{[}\PYGdefault{l+s}{\PYGdefaultZsq{}Month\PYGdefaultZsq{}}\PYGdefault{p}{]}
+\end{Verbatim}
